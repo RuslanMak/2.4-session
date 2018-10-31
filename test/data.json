@@ -1,0 +1,60 @@
+
+[
+  {
+    "number": 1,
+    "question": "2+2=?",
+    "variants":
+    {
+      "variant1": 6,
+      "variant2": 2,
+      "variant3": 8,
+      "variant4": 4
+    },
+    "answer": 4
+  },
+  {
+    "number": 2,
+    "question": "2+5=?",
+    "variants":
+    {
+      "variant1": 6,
+      "variant2": 2,
+      "variant3": 8,
+      "variant4": 7
+    },
+    "answer": 7
+  },
+  {
+    "number": 3,
+    "question": "3+2=?",
+    "variants":
+    {
+      "variant1": 4,
+      "variant2": 5,
+      "variant3": 6
+    },
+    "answer": 5
+  },
+  {
+    "number": 4,
+    "question": "3+9=?",
+    "variants":
+    {
+      "variant1": 10,
+      "variant2": 12,
+      "variant3": 9
+    },
+    "answer": 12
+  },
+  {
+    "number": 5,
+    "question": "8+2=?",
+    "variants":
+    {
+      "variant1": 10,
+      "variant2": 9,
+      "variant3": 12
+    },
+    "answer": 10
+  }
+]
